@@ -8,10 +8,10 @@ cd /usr/share/sumo/bin
 ```
 ./netedit 
 ```
-###Create a network using netedit.
+### Create a network using netedit.
 ![image](https://user-images.githubusercontent.com/94188928/232224148-971ff678-436a-485f-b8db-8b848e47f14c.png)
 
-###To launch it on the sumo GUI, press Ctrl-T
+### To launch it on the sumo GUI, press Ctrl-T
 ![image](https://user-images.githubusercontent.com/94188928/232224162-5eacd668-1e0d-4dba-b39e-c3cbab8488ce.png)
 
 ## There are four types of files required for running a SUMO simulation
