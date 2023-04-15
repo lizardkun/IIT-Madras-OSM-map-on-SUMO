@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-04-15 16:47:05 by Eclipse SUMO netedit Version 1.16.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Routes -->
+    <route id="r_0" edges="-24730651#0 24730651#0 24730651#1 24730651#2 -24730651#2 -24730651#1 -24730651#0 24730651#0 24730651#1 24730651#2 -24730651#2 -24730651#1 -24730651#0 24730647#3 24730647#4 24730647#0 24730647#1 24730644#0 24730644#1 24730644#2 -24730644#2 -24730644#1 -24730644#0"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <trip id="t_0" depart="0.00" from="-24730651#0" to="-24730651#0"/>
+    <trip id="t_1" depart="0.00" from="-24730651#0" to="-24730651#0"/>
+    <trip id="t_2" depart="0.00" from="-24730651#1" to="-24730651#1"/>
+    <trip id="t_3" depart="0.00" from="-24730651#2" to="-24730651#2"/>
+    <trip id="t_4" depart="0.00" from="24730651#0" to="24730644#2" via="24730647#0 24730647#1 24730644#0 24730644#1"/>
+    <person id="p_0" depart="0.00">
+        <personTrip from="-24730651#0" to="-24730651#0" lines="ANY"/>
+    </person>
+    <person id="p_1" depart="0.00">
+        <personTrip from="24730644#0" to="24730644#0" lines="ANY"/>
+    </person>
+    <person id="p_2" depart="0.00">
+        <personTrip from="24730644#1" to="-24730644#1" lines="ANY"/>
+    </person>
+    <person id="p_3" depart="0.00">
+        <personTrip from="24730644#0" to="-30029309#2" lines="ANY"/>
+    </person>
+</routes>
